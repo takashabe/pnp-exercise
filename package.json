@@ -1,0 +1,8 @@
+{
+  "name": "pnp-exercise",
+  "packageManager": "yarn@4.0.0-rc.48",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1"
+  }
+}
